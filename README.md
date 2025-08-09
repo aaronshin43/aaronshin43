@@ -5,21 +5,20 @@
   <a href="https://www.linkedin.com/in/gyujin-lee-9aa707241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gyujin-lee-9aa707241/"/></a> 
 </p>
 
----
 
 ## 🎓 Education
 - **B.S. in Computer Science & Mathematics** — Dickinson College *(Expected Graduation: 2027)*  
 - Backend Web Development Training Program — Java, Spring Boot, Databases, API Design, Full-stack Projects  
 - Relevant coursework: **Object-Oriented Programming**, **Computing Abstractions**, **Abstract Algebra**, **Linear Algebra**
 
----
+
 
 ## 🚀 Projects
 - **[TUNI](https://github.com/KoreaITWeb)** — A web application for students to buy & sell items within the university community
 - **[RUSH](https://github.com/Project-Rush)** — A RAG based AI chatbot system that provides real-time answers to Dickinson College students' questions about college based on the official website (continuing)
 - **[Fruitbox Solver](https://github.com/aaronshin43/Fruitboxsolver)** — Python automation script that solves a sum-to-10 puzzle in real-time for maximum score  
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -50,7 +49,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
+
 
 ## 💡 Interests
 - Backend architecture & Buisiness logic 
@@ -58,12 +57,12 @@
 - Building helpful software
 - Problem-solving challenges & hackathons  
 
----
+
 
 ## 🌟 Activities
 - 🏆 **Most Complete Award** — *Red Devil Hacks* Hackathon  
 - **Military Service** — IT Specialist & ATCIS Operator in the Korean Army  
----
+
 
 ## 📬 Contact
 - **Email**: aaronshin.exe@gmail.com
