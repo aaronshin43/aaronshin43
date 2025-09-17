@@ -3,11 +3,12 @@
 ## 🎓 Education
 - **B.S. in Computer Science & Mathematics** — Dickinson College *(Expected Graduation: May 2027)*  
 - Java Spring Backend Web Development Training Program — Java, Spring Boot, Databases, API Design, Full-stack Projects  
-- Relevant coursework: **Data Structure and Problem Solving**, **Operations Research, Real Analysis**, **Object-Oriented Programming**, **Abstract Algebra** 
+- Relevant coursework: **Data Structure and Problem Solving**, **Operations Research**, **Real Analysis**, **Object-Oriented Programming**, **Abstract Algebra** 
 
 
 
 ## 🚀 Projects
+- **[SafeZone](https://github.com/Elfrunner28/SafeZone)** - A real-time disaster response platform that delivers alerts, resource maps, and community updates, designed to be the “Waze for disaster response”
 - **[RUSH](https://github.com/Project-Rush)** — A RAG based AI chatbot system that provides real-time answers to Dickinson College students' questions about college based on the official website (continuing)
 - **[TUNI](https://github.com/KoreaITWeb)** — A web application for students to buy & sell items within the university community
 - **[Fruitbox Solver](https://github.com/aaronshin43/Fruitboxsolver)** — Python automation script that solves a sum-to-10 puzzle in real-time for maximum score  
@@ -43,6 +44,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 
 
