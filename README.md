@@ -6,8 +6,8 @@
 - Relevant coursework: **Data Structure and Problem Solving**, **Operations Research**, **Real Analysis**, **Object-Oriented Programming**, **Abstract Algebra** 
 
 
-
 ## 🚀 Projects
+- **[CharAIdes](https://github.com/PennApps2025/FrontAiCharades)** - An AI-powered charades where users act out words in front of a webcam, and the AI guesses actions in real time using Google Gemini. 🏆 Winner of Most Creative Hack at PennApps XXVI
 - **[SafeZone](https://github.com/Elfrunner28/SafeZone)** - A real-time disaster response platform that delivers alerts, resource maps, and community updates, designed to be the “Waze for disaster response”
 - **[RUSH](https://github.com/Project-Rush)** — A RAG based AI chatbot system that provides real-time answers to Dickinson College students' questions about college based on the official website (continuing)
 - **[TUNI](https://github.com/KoreaITWeb)** — A web application for students to buy & sell items within the university community
@@ -25,10 +25,11 @@
 
 **Frameworks & Libraries**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Pinia](https://img.shields.io/badge/-Pinia-F7DF1E?style=flat&logo=vue.js&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
