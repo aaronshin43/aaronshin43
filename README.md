@@ -58,7 +58,8 @@
 
 
 ## 🌟 Activities
-- 🏆 **Most Complete Award** — *Red Devil Hacks* Hackathon  
+- 🏆 **Most Creative Hack** — *PennApps XXVI*  
+- 🏆 **Most Complete** — *Red Devil Hacks*  
 - **Military Service** — IT Specialist & ATCIS Operator in the Korean Army
 
 
