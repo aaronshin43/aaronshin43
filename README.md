@@ -9,7 +9,7 @@
 ## 🚀 Projects
 - **[CharAIdes](https://github.com/PennApps2025/FrontAiCharades)** - An AI-powered charades where users act out words in front of a webcam, and the AI guesses actions in real time using Google Gemini. 🏆 Winner of Most Creative Hack at PennApps XXVI
 - **[SafeZone](https://github.com/Elfrunner28/SafeZone)** - A real-time disaster response platform that delivers alerts, resource maps, and community updates, designed to be the “Waze for disaster response”
-- **[RUSH](https://github.com/Project-Rush)** — A RAG based AI chatbot system that provides real-time answers to Dickinson College students' questions about college based on the official website (continuing)
+- **[RUSH](https://github.com/Project-Rus](https://github.com/Project-Rush/rushfrontend)** — A RAG based AI chatbot system that provides real-time answers to Dickinson College students' questions about college based on the official website
 - **[TUNI](https://github.com/KoreaITWeb)** — A web application for students to buy & sell items within the university community
 - **[Fruitbox Solver](https://github.com/aaronshin43/Fruitboxsolver)** — Python automation script that solves a sum-to-10 puzzle in real-time for maximum score  
 
