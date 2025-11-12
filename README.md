@@ -1,20 +1,10 @@
-<h1 align="center">Hello, World! 👋</h1>
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none; background: none; border-collapse: collapse;">
-    <tr style="vertical-align: middle; border: none; background: none;">
-      <td width="200" style="border: none; background: none;">&nbsp;</td>
-      <td width="435" style="border: none; background: none;"><a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=999&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aaron%F0%9F%91%8B" alt="Hi, I'm Aaron👋" /></a></td>
-      <td width="200" style="border: none; background: none;"><img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="200" /></td>
-    </tr>
-  </table>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: center; width: 100%;">
-<div style="width: 200px;">&nbsp;</div>
-<div style="width: 435px;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=999&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aaron%F0%9F%91%8B" alt="Typing SVG" /></a></div>
-<div style="width: 200px;"><img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="200" /></div>
-</div>
+<p align="center">
+  <img width="200" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+  <a href="">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=999&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aaron%F0%9F%91%8B" alt="Hi, I'm Aaron👋" />
+  </a>
+  <img width="200" src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" />
+</p>
 
 ## 🎓 Education
 - **B.S. in Computer Science & Mathematics** — Dickinson College *(Expected Graduation: May 2027)*  
