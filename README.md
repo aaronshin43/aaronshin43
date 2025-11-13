@@ -1,10 +1,15 @@
 <p align="center">
   <img width="200" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
-  <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=999&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aaron%F0%9F%91%8B" alt="Hi, I'm Aaron👋" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=999&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aaron%F0%9F%91%8B" alt="Hi, I'm Aaron👋" />
   <img width="200" src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" />
 </p>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/aaron-shin-377477350"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aaronshin.exe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/aaronshin43"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=aaronshin43&style=for-the-badge" />
+</div>
 
 ## 🎓 Education
 - **B.S. in Computer Science & Mathematics** — Dickinson College *(Expected Graduation: May 2027)*  
@@ -54,21 +59,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 
-
-## 💡 Interests
-- Backend architecture & Buisiness logic 
-- AI-powered applications and search-augmented systems
-- Building helpful software
-- Problem-solving challenges & hackathons  
-
-
-
-## 🌟 Activities
-- 🏆 **Most Creative Hack** — *PennApps XXVI*  
-- 🏆 **Most Complete** — *Red Devil Hacks*  
-- **Military Service** — IT Specialist & ATCIS Operator in the Korean Army
-
-
-## 📬 Contact
-- **Email**: aaronshin.exe@gmail.com
-- **LinkedIn**: [linkedin.com/in/aaron-shin-377477350](https://www.linkedin.com/in/aaron-shin-377477350/)
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=aaronshin43&show_icons=true&theme=transparent&hide_rank=true&hide_title=true&count_private=true" /> 
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronshin43&layout=compact&theme=transparent" />
+</p>
