@@ -30,7 +30,7 @@
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)
 
