@@ -19,13 +19,17 @@
 🔗 Feel free to check out my projects and connect if you'd like to collaborate or chat about anything.
 
 ## 🚀 Projects
-✈️ **[TripSmith](https://github.com/HackPrinceton2025/TravelProject)** - AI agent for group travel planning \
-🎮 **[CharAIdes](https://github.com/PennApps2025/FrontAiCharades)** - AI powered charades \
+<div>
+<img align="right" src="./assets/Animation.gif" alt="Projects carousel" width="400" />
+
+✈️ **[TripSmith](https://github.com/HackPrinceton2025/TravelProject)** - AI agent for group travel planning
+
+🎮 **[CharAIdes](https://github.com/PennApps2025/FrontAiCharades)** - AI powered charades
+
 🛰️ **[SafeZone](https://github.com/Elfrunner28/SafeZone)** - Real time disaster response platform
 
-<p align="center">
-  <img src="./assets/Animation.gif" alt="Projects carousel" width="700" />
-</p>
+<br clear="right"/>
+</div>
 
 ## 🛠 Tech Stack
 
