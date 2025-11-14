@@ -11,11 +11,12 @@
 <img src="https://komarev.com/ghpvc/?username=aaronshin43&style=for-the-badge" />
 </div>
 
-## 🎓 Education
-- **B.S. in Computer Science & Mathematics** — Dickinson College *(Expected Graduation: May 2027)*  
-- Java Spring Backend Web Development Training Program — Java, Spring Boot, Databases, API Design, Full-stack Projects  
-- Relevant coursework: **Data Structure and Problem Solving**, **Operations Research**, **Real Analysis**, **Object-Oriented Programming**, **Abstract Algebra** 
-
+## 👨🏻‍💻 About Me
+🎓 I’m studying Computer Science and Mathematics at Dickinson College. \
+💡 I enjoy experimenting with new technologies and creating projects that connect AI with real-world problems. \
+🌱 Currently exploring AI engineering, backend architecture, and full-stack development. \
+🧩 I also love solving technical challenges. \
+🔗 Feel free to check out my projects and connect if you'd like to collaborate or chat about anything.
 
 ## 🚀 Projects
 - **[CharAIdes](https://github.com/PennApps2025/FrontAiCharades)** - An AI-powered charades where users act out words in front of a webcam, and the AI guesses actions in real time using Google Gemini. 🏆 Winner of Most Creative Hack at PennApps XXVI
@@ -23,8 +24,6 @@
 - **[RUSH](https://github.com/Project-Rush/rushfrontend)** — A RAG based AI chatbot system that provides real-time answers to Dickinson College students' questions about college based on the official website
 - **[TUNI](https://github.com/KoreaITWeb)** — A web application for students to buy & sell items within the university community
 - **[Fruitbox Solver](https://github.com/aaronshin43/Fruitboxsolver)** — Python automation script that solves a sum-to-10 puzzle in real-time for maximum score  
-
-
 
 ## 🛠 Tech Stack
 
@@ -58,8 +57,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=aaronshin43&show_icons=true&theme=transparent&hide_rank=true&hide_title=true&count_private=true" /> 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronshin43&layout=compact&theme=transparent" />
+## Stats
+<p>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=aaronshin43&show_icons=true&theme=transparent&hide_rank=true&hide_title=true&count_private=true" /> 
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronshin43&layout=compact&theme=transparent" />
 </p>
