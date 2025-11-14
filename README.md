@@ -63,7 +63,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 
-## Stats
+## ⭐ Stats
 <p>
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=aaronshin43&show_icons=true&theme=transparent&hide_rank=true&hide_title=true&count_private=true" /> 
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronshin43&layout=compact&theme=transparent" />
