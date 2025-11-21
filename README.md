@@ -22,6 +22,8 @@
 <div>
 <img align="right" src="./assets/Animation.gif" alt="Projects carousel" width="400" />
 
+🔮 **[The Last Vigil](https://github.com/aaronshin43/lastvigil-front)** - Hands-free tower defense with Computer Vision
+
 ✈️ **[TripSmith](https://github.com/HackPrinceton2025/TravelProject)** - AI agent for group travel planning
 
 🎮 **[CharAIdes](https://github.com/PennApps2025/FrontAiCharades)** - AI powered charades
@@ -37,31 +39,29 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 
-**Frameworks & Libraries**  
+**Web Development**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
+
+**AI & Data Science**  
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-05122A?style=flat&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
-
-**Other**  
+**Tools & Others**  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Vultr](https://img.shields.io/badge/-Vultr-05122A?style=flat&logo=vultr&logoColor=white)
 
 ## ⭐ Stats
 <p>
