@@ -21,6 +21,8 @@
 <div>
 <img align="right" src="./assets/Animation.gif" alt="Projects carousel" width="400" />
 
+🤬 **[Procrasti-Hator](https://github.com/aaronshin43/ProcrastiHater)** - AI surveillance that roasts you for slacking off
+
 🔮 **[The Last Vigil](https://github.com/aaronshin43/lastvigil-front)** - Hands-free tower defense with Computer Vision
 
 ✈️ **[TripSmith](https://github.com/HackPrinceton2025/TravelProject)** - AI agent for group travel planning
