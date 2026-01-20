@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 <div>
-<img align="right" src="./assets/Animation.gif" alt="Projects carousel" width="400" />
+<img align="right" src="./assets/Animation2.gif" alt="Projects carousel" width="400" />
 
 🤬 **[Procrasti-Hator](https://github.com/aaronshin43/ProcrastiHater)** - AI surveillance that roasts you for slacking off
 
