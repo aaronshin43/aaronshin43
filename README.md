@@ -38,19 +38,22 @@
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
 
 **Web Development**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)
+![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
 
 **AI & Data Science**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-05122A?style=flat&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
@@ -66,6 +69,6 @@
 
 ## ⭐ Stats
 <p>
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=aaronshin43&show_icons=true&theme=transparent&hide_rank=true&hide_title=true&count_private=true" /> 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronshin43&layout=compact&theme=transparent" />
+<img height="180px" src="https://github-readme-stats.shion.dev/api?username=aaronshin43&show_icons=true&theme=transparent&hide_rank=true&hide_title=true&count_private=true" /> 
+<img height="180px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aaronshin43&layout=compact&theme=transparent" />
 </p>
